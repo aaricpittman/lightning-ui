@@ -1,7 +1,7 @@
-require "lightning/ui/engine"
+require 'lightning/ui/engine'
 
 module Lightning
-  module Ui
+  module UI
     # Your code goes here...
   end
 end

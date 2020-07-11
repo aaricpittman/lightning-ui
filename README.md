@@ -1,4 +1,4 @@
-# Lightning::Ui
+# Lightning UI
 Short description and motivation.
 
 ## Usage
