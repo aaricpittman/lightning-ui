@@ -1,5 +1,5 @@
 # Lightning UI
-Short description and motivation.
+Rails [view components](https://rubygems.org/gems/view_component) for [Salesforce Lightning Design System](https://lightningdesignsystem.com/)
 
 ## Usage
 How to use my plugin.
