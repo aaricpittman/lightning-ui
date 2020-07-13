@@ -23,7 +23,7 @@ module Lightning
         [
           'slds-badge',
           COLORS[color]
-        ]
+        ].compact
       end
 
       def text_or_content

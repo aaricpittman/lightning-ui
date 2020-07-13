@@ -1,3 +1,3 @@
-Rails.autoloaders.each do |autoloader|
-  autoloader.inflector.inflect('ui' => 'UI')
+ActiveSupport::Inflector.inflections(:en) do |inflect|
+  inflect.acronym 'UI'
 end
