@@ -203,7 +203,7 @@ GEM
     tzinfo (1.2.7)
       thread_safe (~> 0.1)
     unicode-display_width (1.7.0)
-    view_component (2.14.1)
+    view_component (2.16.0)
       activesupport (>= 5.0.0, < 7.0)
     websocket-driver (0.7.3)
       websocket-extensions (>= 0.1.0)
